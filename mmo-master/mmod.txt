@@ -3,3 +3,5 @@ bugs
 
 
 This is Kaiser edit
+
+7th line
